@@ -2,8 +2,6 @@
 
 Control your system's **volume** and **screen brightness** using your **hand gestures** in real-time through your webcam.
 
-https://user-images.githubusercontent.com/your-demo.gif <!-- Optional: Replace with a demo image or video link -->
-
 ---
 
 ## 🚀 Features
@@ -30,6 +28,6 @@ https://user-images.githubusercontent.com/your-demo.gif <!-- Optional: Replace w
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hand-gesture-controller.git
+git clone https://github.com/pallevikasreddy/hand-gesture-controller.git
 cd hand-gesture-controller
 
