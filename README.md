@@ -29,5 +29,5 @@ Control your system's **volume** and **screen brightness** using your **hand ges
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hand-gesture-controller.git
+git clone https://github.com/pallevikasreddy/hand-gesture-controller.git
 cd hand-gesture-controller
