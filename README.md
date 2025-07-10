@@ -2,7 +2,6 @@
 
 Control your system's **volume** and **screen brightness** using your **hand gestures** in real-time through your webcam.
 
-https://user-images.githubusercontent.com/your-demo.gif <!-- Optional: Replace with a demo image or video link -->
 
 ---
 
